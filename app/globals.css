@@ -266,7 +266,7 @@
 }
 
 .gradient_green_box  {
-  background: linear-gradient(90deg, rgb(8, 46, 11) 0%, #006e0d 50%);
+  background: linear-gradient(90deg, #082e0b 0%, #006e0d 50%);
 }
 
 .gradient_lightgreen_box  {
